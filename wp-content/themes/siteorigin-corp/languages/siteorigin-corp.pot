@@ -1,0 +1,221 @@
+# Copyright (C) 2017 siteorigin-corp
+# This file is distributed under the same license as the siteorigin-corp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: siteorigin-corp\n"
+"Report-Msgid-Bugs-To: http://www.siteorigin.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SiteOrigin <support@siteorigin.com>\n"
+"Language-Team: SiteOrigin <support@siteorigin.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "Try the search form below or browse using the main menu above."
+msgstr ""
+
+#: comments.php:34
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50, comments.php:68
+msgid "Older comments"
+msgstr ""
+
+#: comments.php:51, comments.php:69
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:29
+msgid "Footer Widgets"
+msgstr ""
+
+#: footer.php:44
+msgid "Crafted with love by %s."
+msgstr ""
+
+#: footer.php:63
+msgid "Scroll to top"
+msgstr ""
+
+#: functions.php:62
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:110
+msgid "Visible on posts and pages that use the Default or Full Width, With Sidebar layout."
+msgstr ""
+
+#: functions.php:118, inc/settings.php:46
+msgid "Footer"
+msgstr ""
+
+#: functions.php:120
+msgid "A column will be automatically assigned to each widget inserted"
+msgstr ""
+
+#: functions.php:129
+msgid "Shop"
+msgstr ""
+
+#: functions.php:131
+msgid "Displays on WooCommerce pages."
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:50
+msgid "Menu"
+msgstr ""
+
+#: header.php:57
+msgid "Type and press enter to search"
+msgstr ""
+
+#: header.php:61, searchform.php:3, searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: inc/settings.php:14
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/settings.php:15
+msgid "Change settings for your theme."
+msgstr ""
+
+#: inc/settings.php:29
+msgid "Header"
+msgstr ""
+
+#: inc/settings.php:33
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/settings.php:34
+msgid "A double sized logo to use on retina devices."
+msgstr ""
+
+#: inc/settings.php:38
+msgid "Site Description"
+msgstr ""
+
+#: inc/settings.php:39
+msgid "Show your site description below your site title or logo."
+msgstr ""
+
+#: inc/settings.php:51
+msgid "Footer Text"
+msgstr ""
+
+#: inc/settings.php:52
+msgid "{sitename} and {year} are your site's name and current year."
+msgstr ""
+
+#: inc/settings.php:76
+msgid "{year} &copy; {sitename}."
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "View posts by "
+msgstr ""
+
+#: inc/template-tags.php:174
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:177
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:180
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid "Continue reading"
+msgstr ""
+
+#: inc/template-tags.php:219
+msgid "Related Posts"
+msgstr ""
+
+#: inc/template-tags.php:242, yarpp-template-corp.php:28
+msgid "No related posts."
+msgstr ""
+
+#: inc/template-tags.php:283
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:283
+msgid "One Comment"
+msgstr ""
+
+#: inc/template-tags.php:283
+msgid "% Comments"
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:29, template-parts/content.php:54
+msgid "Pages:"
+msgstr ""
+
+#: yarpp-template-corp.php:12
+msgid "You May Also Like"
+msgstr ""
