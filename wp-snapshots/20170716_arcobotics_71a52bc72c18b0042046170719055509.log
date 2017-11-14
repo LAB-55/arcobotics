@@ -1,0 +1,78 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-07-19 05:55:27
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.10
+WORDPRESS:	4.8
+PHP INFO:	7.1.1 | SAPI: fpm-fcgi
+SERVER:		Apache/2.4.25 (Unix) OpenSSL/1.0.2g 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:23 | filtered:0 | create:23 
+FILTERED: [] 
+SQL CREATED: 20170716_arcobotics_71a52bc72c18b0042046170719055509_database.sql 
+SQL FILE SIZE: 4.64MB (4865150) 
+SQL FILE TIME: 2017-07-19 05:55:28 
+SQL RUNTIME: 0.39 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /srv/users/serverpilot/apps/arcobotics/public 
+ARCHIVE FILE: 20170716_arcobotics_71a52bc72c18b0042046170719055509_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	161.1MB 
+STATS:	Dirs 575 | Files 4,186 
+SQL ADDED: 20170716_arcobotics_71a52bc72c18b0042046170719055509_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4761
+    [filename] => /srv/users/serverpilot/apps/arcobotics/public/wp-snapshots/tmp/20170716_arcobotics_71a52bc72c18b0042046170719055509_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 120.84MB 
+ARCHIVE RUNTIME: 17.15 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/srv/users/serverpilot/apps/arcobotics/public/wp-snapshots/tmp/20170716_arcobotics_71a52bc72c18b0042046170719055509_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 4.64MB 
+Installer File: 431.68KB 
+Archive File: 120.84MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 19.14 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20170716_arcobotics 2017-07-19 05:55:47
+ 
